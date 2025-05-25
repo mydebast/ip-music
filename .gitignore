@@ -1,0 +1,30 @@
+# Virtual Environment
+venv/
+*.venv
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables file
+.env
+*.env
+
+# Downloaded media folder
+downloads/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.project
+*.sublime-workspace
+
+# Log files (jika ada)
+*.log
+logs/
+
+# Windows thumbnails
+Thumbs.db
